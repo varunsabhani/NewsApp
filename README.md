@@ -1,1 +1,1 @@
-A news app which uses NewsAPI.org's API to fetch and display the current news (in progress).
+A news app which uses NewsAPI.org's API to fetch and display the current news.

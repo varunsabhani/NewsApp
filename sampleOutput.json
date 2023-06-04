@@ -1,32 +1,71 @@
 {
   "status": "ok",
-  "totalResults": 2,
+  "totalResults": 5,
   "articles": [
     {
       "source": {
-        "id": "espn-cric-info",
-        "name": "ESPN Cric Info"
+        "id": null,
+        "name": "BBC News"
       },
-      "author": null,
-      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
-      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
-      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
-      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
-      "publishedAt": "2020-04-27T11:41:47Z",
-      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Greece election: Centre-right wins but set to miss out on majority - BBC",
+      "description": "Centre-right Kyriakos Mitsotakis heads for a big election win, a few seats short of outright victory.",
+      "url": "https://www.bbc.com/news/world-europe-65666261",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6067/production/_129797642_f67f5e5043167e48e9b95f61f90f0e48dfe854fb0_31_6000_33751000x563.jpg",
+      "publishedAt": "2023-05-21T18:32:43Z",
+      "content": "Greece's conservative New Democracy has won Sunday's elections, falling a handful of seats short of outright victory.\r\nPrime Minister Kyriakos Mitsotakis's party polled almost 41%, based on more than… [+2557 chars]"
     },
     {
       "source": {
-        "id": "espn-cric-info",
-        "name": "ESPN Cric Info"
+        "id": null,
+        "name": "The Guardian"
       },
-      "author": null,
-      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
-      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
-      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
-      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
-      "publishedAt": "2020-03-30T15:26:05Z",
-      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+      "author": "David Hytner",
+      "title": "Manchester City cap title triumph with win over Chelsea thanks to Álvarez - The Guardian",
+      "description": "Julián Álvarez scored the game’s only goal after 12 minutes as Manchester City celebrated winning the Premier League by beating Chelsea 1-0",
+      "url": "https://www.theguardian.com/football/2023/may/21/manchester-city-chelsea-premier-league-match-report",
+      "urlToImage": "https://i.guim.co.uk/img/media/cd9ba621b5f3d47920fd524a6fb1b83f039ecd22/197_172_5432_3259/master/5432.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=518f37bfa89d9c73f9a9e261674ad1d6",
+      "publishedAt": "2023-05-21T17:17:00Z",
+      "content": "Manchester City have never enjoyed a more dominant moment or a more tantalising one. A third Premier League title in a row and fifth in six seasons? Check. It had been sealed when Arsenal lost at Not… [+11400 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "SUSIE BLANN and ZEKE MILLER Associated Press",
+      "title": "Zelenskyy says 'Bakhmut is only in our hearts' after Russia claims control of Ukrainian city - ABC News",
+      "description": "Ukrainian President Volodymyr Zelenskyy says that he believes that Russia has taken control of the eastern city of Bakhmut",
+      "url": "https://abcnews.go.com/International/wireStory/russian-private-army-head-claims-control-bakhmut-wars-99478947",
+      "urlToImage": "https://s.abcnews.com/images/International/wirestory_da2fc05b818b3dcc39decd40b17d2d8b_16x9_992.jpg",
+      "publishedAt": "2023-05-21T17:04:26Z",
+      "content": "KYIV, Ukraine -- Ukrainian President Volodymyr Zelenskyy said Sunday that Bakhmut was only in our hearts,\" hours after Russias defense ministry reported that forces of the Wagner private army, with t… [+6045 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Page Six"
+      },
+      "author": "Emily Selleck",
+      "title": "Taylor Swift has 'never been this happy’ as Matty Healy romance heats up - Page Six",
+      "description": "“I’ve just never been this happy in my life, in all aspects of my life ever before,” she told concertgoers during her latest Eras Tour show.",
+      "url": "https://pagesix.com/2023/05/21/taylor-swift-has-never-been-this-happy-amid-matty-healy-romance/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2023/05/NYPICHPDPICT000011500672.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2023-05-21T16:53:00Z",
+      "content": "Taylor Swift declared shes never been this happy amid her new romance with The 1975 singer Matty Healy.\r\nI kind of feel like telling you, I dont know, Ive just never been this happy in my life, in al… [+2710 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Shawna Mizelle",
+      "title": "Louisiana GOP senator says Trump can't win a general election - CNN",
+      "description": "Republican Sen. Bill Cassidy of Louisiana said Sunday he doesn’t think Donald Trump would be able to win a general election, pointing to the GOP’s disappointing performance in last year’s midterm elections when several candidates endorsed by the former presid…",
+      "url": "https://www.cnn.com/2023/05/21/politics/bill-cassidy-trump-election-2024-cnntv/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230521104148-sen-bill-cassidy-file-2022.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-05-21T16:51:00Z",
+      "content": "Republican Sen. Bill Cassidy of Louisiana said Sunday he doesnt think Donald Trump would be able to win a general election, pointing to the GOPs disappointing performance in last years midterm electi… [+1687 chars]"
     }
   ]
 }
